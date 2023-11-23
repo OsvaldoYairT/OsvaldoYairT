@@ -1,5 +1,5 @@
-### Hi there 👋
 ![MasterHead](https://www.xtrafondos.com/wallpapers/programacion-computadora-y-lentes-10837.jpg)
+
 <h1 align="center">Hi 👋, I'm Osvaldo Torres</h1>
 <h3 align="center">Desarrollador .Net Jr con un 1 año de experiencia programando proyectos eficientes para la empresa. Tengo experiencia en tecnologías como Front-end y Back-end, así como habilidades para trabajar en equipo, soy alguien comprometido, responsable en mi trabajo y abierto a contribuir a la empresa a su crecimiento e innovación.</h3>
 
