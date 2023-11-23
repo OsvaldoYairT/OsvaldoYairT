@@ -7,7 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osvaldoyairt&label=Profile%20views&color=0e75b6&style=flat" alt="osvaldoyairt" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osvaldoyairt" alt="osvaldoyairt" /></a> </p>
 
 - 🔭 I’m currently working on **Migración de un sistema**
 
@@ -18,6 +17,9 @@
 - 💬 Ask me about **Python, .Net**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/osvaldo-torres-s](https://www.linkedin.com/in/osvaldo-torres-s)
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osvaldoyairt" alt="osvaldoyairt" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
