@@ -5,6 +5,7 @@
 
 <img align="center" alt ="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BxMm80cnYzaGI2dHlobnVwbGI4YmZwbHZ1b3VpZnpnYml4YnIybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
+<img align="center" alt ="Coding" width="400" src="https://www.instagram.com/p/CZbXNpiOoFD/">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osvaldoyairt&label=Profile%20views&color=0e75b6&style=flat" alt="osvaldoyairt" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osvaldoyairt" alt="osvaldoyairt" /></a> </p>
