@@ -31,7 +31,7 @@
 <p align="left">
 <a href="https://www.youtube.com/c/MM12YT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="no es brujería, es tecnología" height="30" width="40" /></a>
 <a href="https://instagram.com/mm12_photos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="osvatech" height="30" width="40" /></a>
-<a href="https://discord.gg/egjn7DJXDD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="egjn7DJXDD" height="30" width="40" /></a>
+<a href="https://discord.gg/tobiuchiha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="egjn7DJXDD" height="30" width="40" /></a>
 <a href="https://www.tiktok.com/@osva_ts" target="blank"><img align="center" src="https://i.pinimg.com/564x/db/bb/57/dbbb57e4a4dd74be71504cdbac7a3095.jpg" alt="XD" height="30" width="30" /></a>
 </p>
 
